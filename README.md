@@ -7,7 +7,7 @@ meu nome e Luara de Lima
 estou tentendo aprender o Alura 
 
 ## voce pode entrar comigo em contato 📧
-
+intas
 @lima_luara.44
 
 @luara.de.lima@escola.pr.gov.br
