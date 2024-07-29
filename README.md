@@ -1,16 +1,17 @@
-## Hi there 👋
+## bem vindo 😘
 
-<!--
-**limaluara/limaluara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Luara de Lima 
 
-Here are some ideas to get you started:
+ sou estudante do 1 A 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou tentendo aprender o Alura 
+
+## voce pode entrar comigo em contato 📧
+
+@lima_luara.44
+
+@luara.de.lima@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/BY-4cJ3NSrcAAAAd/sus-suspiious.gifc)
+
+
